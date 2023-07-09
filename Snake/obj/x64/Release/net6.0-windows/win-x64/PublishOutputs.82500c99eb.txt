@@ -1,0 +1,2 @@
+C:\zUserSpace\source\CSHARP\Snake\Snake\bin\Release\net6.0-windows\publish\Snakeportable\Snake.pdb
+C:\zUserSpace\source\CSHARP\Snake\Snake\bin\Release\net6.0-windows\publish\Snakeportable\Snake.exe

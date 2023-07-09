@@ -1,0 +1,7 @@
+C:\zUserSpace\source\CSHARP\Snake\Snake\bin\Release\net6.0-windows\publish\tbss\Snake.pdb
+C:\zUserSpace\source\CSHARP\Snake\Snake\bin\Release\net6.0-windows\publish\tbss\D3DCompiler_47_cor3.dll
+C:\zUserSpace\source\CSHARP\Snake\Snake\bin\Release\net6.0-windows\publish\tbss\PenImc_cor3.dll
+C:\zUserSpace\source\CSHARP\Snake\Snake\bin\Release\net6.0-windows\publish\tbss\PresentationNative_cor3.dll
+C:\zUserSpace\source\CSHARP\Snake\Snake\bin\Release\net6.0-windows\publish\tbss\vcruntime140_cor3.dll
+C:\zUserSpace\source\CSHARP\Snake\Snake\bin\Release\net6.0-windows\publish\tbss\wpfgfx_cor3.dll
+C:\zUserSpace\source\CSHARP\Snake\Snake\bin\Release\net6.0-windows\publish\tbss\Snake.exe

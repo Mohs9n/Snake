@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "MHZltDXqC2hpc9jHjUjCdXW1QD3juaGG7K4pe0IU0sJHeSRMfeioKENwxgHZ8aWf0/KESvXnAaEAJMHDjaCSQA==",
+  "success": true,
+  "projectFilePath": "C:\\zUserSpace\\source\\CSHARP\\Snake\\Snake\\Snake.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mohse\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.12\\microsoft.netcore.app.runtime.win-x64.6.0.12.nupkg.sha512",
+    "C:\\Users\\mohse\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.12\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.12.nupkg.sha512",
+    "C:\\Users\\mohse\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.12\\microsoft.aspnetcore.app.runtime.win-x64.6.0.12.nupkg.sha512",
+    "C:\\Users\\mohse\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.12\\microsoft.netcore.app.crossgen2.win-x64.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
